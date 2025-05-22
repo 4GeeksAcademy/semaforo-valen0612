@@ -9,3 +9,45 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+.traffic-light{ background: black;
+padding: 10px;
+display: inline-block;
+border-radius: 20px;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.red{ background: red;}
+.yellow{background: yellow;}
+.green{ background: green;}
+
+.glow-red{
+    box-shadow: 0px 0px 9px 4px red;
+}
+
+.glow-yellow{
+    box-shadow: 0px 0px 9px 4px yellow;
+}
+
+.glow-green{
+    box-shadow: 0px 0px 9px 4px yellowgreen;
+}
+
+.palo{
+   
+    width: 10px;
+    height: 80px;
+    background: black;
+    margin: auto;
+
+
+
+
+}
